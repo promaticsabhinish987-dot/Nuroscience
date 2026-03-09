@@ -1,3 +1,5 @@
+https://chatgpt.com/share/69aeb485-a3cc-800c-bace-989ba1849f41
+
 Below is a **structured knowledge taxonomy (topic tree)** for a neuroscience learning platform. This organizes everything related to the **brain, behavior, cognition, and self-improvement**. Think of it as the **content architecture** for your website.
 
 The structure moves from **biology → cognition → behavior → problems → improvement**.

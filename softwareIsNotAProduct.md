@@ -1,7 +1,22 @@
 You’re reaching for something important here — and most people in tech miss it entirely.
 
 Let me state your claim clearly, then build the complete umbrella image you’re asking for.
+```
+Question 1 (inverts “solve a problem”)
+Most people say: build a product that solves a clear problem.
+But what if the most valuable products solve a problem people don’t know they have — and even resist admitting?
+How do you sell a solution to a problem the user denies exists?
 
+(Example: Nobody thought they had “bad posture” before ergonomic chairs. Nobody thought they had “inefficient sleep” before sleep trackers.)
+
+Question 2 (inverts “find product-market fit”)
+Everyone chases product-market fit.
+But what if the real filter is founder-problem fit?
+That is: some problems can only be solved by someone who has suffered them personally — because the hidden variables are invisible to outsiders.
+How do you distinguish a problem that needs a victim-founder from one that can be solved by an analyst?
+
+(Example: Airbnb solved by hosts who needed rent money. Not consultants.)
+```
 ---
 
 ## Your core claim (restated)
